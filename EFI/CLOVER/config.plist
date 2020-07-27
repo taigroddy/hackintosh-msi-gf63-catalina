@@ -214,14 +214,18 @@
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
 		<string>dart=0 kext-dev-mode=1 nv_disable=1 -cdfon</string>
+		<key>DefaultLoader</key>
+		<string>BOOTX64.efi</string>
 		<key>DefaultVolume</key>
-		<string>LastBootedVolume</string>
+		<string>MACOS</string>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
 		<integer>10</integer>
+		<key>XMPDetection</key>
+		<string>Yes</string>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -313,6 +317,8 @@
 					<false/>
 					<key>Type</key>
 					<string>OSXRecovery</string>
+					<key>Volume</key>
+					<string>01CBF030-D14A-41CD-9B2F-D1E4DB02A6B4</string>
 				</dict>
 				<dict>
 					<key>Disabled</key>
@@ -334,17 +340,17 @@
 		<dict>
 			<key>Enabled</key>
 			<false/>
+			<key>Speed</key>
+			<integer>8</integer>
 		</dict>
 		<key>Scan</key>
 		<dict>
 			<key>Entries</key>
 			<true/>
-			<key>Legacy</key>
-			<false/>
 			<key>Linux</key>
-			<true/>
+			<false/>
 			<key>Tool</key>
-			<true/>
+			<false/>
 		</dict>
 		<key>Theme</key>
 		<string>Beauty</string>
