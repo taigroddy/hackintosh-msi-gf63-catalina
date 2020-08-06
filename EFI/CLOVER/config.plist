@@ -214,10 +214,8 @@
 		<string>LastBootedVolume</string>
 		<key>Arguments</key>
 		<string>dart=0 kext-dev-mode=1 nv_disable=1 -cdfon</string>
-		<key>DefaultLoader</key>
-		<string>BOOTX64.efi</string>
 		<key>DefaultVolume</key>
-		<string>MACOS</string>
+		<string>79FD742C-7424-4968-B31F-2A13CF263F43</string>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Secure</key>
@@ -315,10 +313,12 @@
 					<false/>
 					<key>NoCaches</key>
 					<false/>
+					<key>Title</key>
+					<string>MAC</string>
 					<key>Type</key>
 					<string>OSXRecovery</string>
 					<key>Volume</key>
-					<string>01CBF030-D14A-41CD-9B2F-D1E4DB02A6B4</string>
+					<string>79FD742C-7424-4968-B31F-2A13CF263F43</string>
 				</dict>
 				<dict>
 					<key>Disabled</key>
@@ -335,6 +335,7 @@
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
+			<string>Recovery</string>
 		</array>
 		<key>Mouse</key>
 		<dict>
