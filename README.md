@@ -13,5 +13,3 @@
 
 <h3># Performance:</h3>
 - Realy fast and no problem with the temperature. <br>
-
-<h3># IMAGES:</h3>
