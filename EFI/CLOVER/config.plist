@@ -215,7 +215,7 @@
 		<key>Arguments</key>
 		<string>dart=0 kext-dev-mode=1 nv_disable=1 -cdfon</string>
 		<key>DefaultVolume</key>
-		<string>79FD742C-7424-4968-B31F-2A13CF263F43</string>
+		<string>MAC</string>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Secure</key>
@@ -316,7 +316,7 @@
 					<key>Title</key>
 					<string>MAC</string>
 					<key>Type</key>
-					<string>OSXRecovery</string>
+					<string>OSX</string>
 					<key>Volume</key>
 					<string>79FD742C-7424-4968-B31F-2A13CF263F43</string>
 				</dict>
@@ -335,7 +335,6 @@
 		<key>Hide</key>
 		<array>
 			<string>Preboot</string>
-			<string>Recovery</string>
 		</array>
 		<key>Mouse</key>
 		<dict>
@@ -353,6 +352,8 @@
 			<key>Tool</key>
 			<false/>
 		</dict>
+		<key>ScreenResolution</key>
+		<string>1600x900</string>
 		<key>Theme</key>
 		<string>Beauty</string>
 	</dict>

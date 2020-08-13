@@ -111,6 +111,6 @@
 	<key>OSBundleRequired</key>
 	<string>Network-Root</string>
 	<key>XCBUILD</key>
-	<string>1.0.0</string>
+	<string>9da56de</string>
 </dict>
 </plist>
