@@ -13,3 +13,9 @@
 
 <h3># Performance:</h3>
 - Realy fast and no problem with the temperature. <br>
+
+<h3># Working: </h3>
+- Wifi.
+- Func button.
+- Keyboard and mouse.
+- Audio.
