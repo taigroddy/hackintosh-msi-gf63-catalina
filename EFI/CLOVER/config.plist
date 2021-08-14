@@ -221,7 +221,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>10</integer>
+		<integer>5</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -293,9 +293,7 @@
 		<false/>
 	</dict>
 	<key>DisableDrivers</key>
-	<array>
-		<string>VBoxHfs</string>
-	</array>
+	<array/>
 	<key>GUI</key>
 	<dict>
 		<key>#ScreenResolution</key>
@@ -319,16 +317,6 @@
 					<string>OSX</string>
 					<key>Volume</key>
 					<string>79FD742C-7424-4968-B31F-2A13CF263F43</string>
-				</dict>
-				<dict>
-					<key>Disabled</key>
-					<false/>
-					<key>Ignore</key>
-					<false/>
-					<key>Title</key>
-					<string>Windows</string>
-					<key>Type</key>
-					<string>Windows</string>
 				</dict>
 			</array>
 		</dict>
@@ -565,7 +553,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>ROM</key>
-		<data>deNAicCC</data>
+		<data>tiEQ2GWU</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
