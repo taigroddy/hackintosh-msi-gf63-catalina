@@ -15,7 +15,8 @@
 - Realy fast and no problem with the temperature. <br>
 
 <h3># Working: </h3>
-- Wifi.
-- Func button.
-- Keyboard and mouse.
-- Audio.
+- Wifi. <br>
+- Func button. <br>
+- Keyboard and mouse. <br>
+- Audio. <br>
+- Webcam. <br>
