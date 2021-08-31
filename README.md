@@ -20,6 +20,6 @@
 - Webcam. <br>\
 
 <h3># Follow to update: </h3>
-I will try to update kexts and fixing patches if I have the time. But you can found the information to update your EFI with the below links: <br>
+I will try to update the newest kexts and fixing patches. But in case you want to do it by self, you can found the information to update your EFI with the below links: <br>
 - https://github.com/OpenIntelWireless/itlwm for Wifi and Airport issues. <br>
 - https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573 for patches <br>
